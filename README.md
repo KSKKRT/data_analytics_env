@@ -13,8 +13,11 @@
 |-- notebook : ノートブック格納先
 |-- output : 実行結果の格納先
 |-- utils
-`-- yamls : hydra で使うための config ファイル群
+`-- yamls : hydraで使うためのconfigファイル群
 ```
+
+### pythonバージョン
+3.10.13
 
 ### 環境構築
 ```sh
