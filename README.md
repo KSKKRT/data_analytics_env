@@ -1,4 +1,5 @@
-# data-analytics-env
+# data-analytics-env  
+kaggleを始めとしたコンペに利用できる分析環境
 
 ### ディレクトリ構成
 
