@@ -7,7 +7,7 @@ import torch
 
 def seed_everything(seed=42):
     random.seed(seed)
-    os.environ["PYTHONHASHSEED"] = str(seed)
+    os.environ["PYTHONSEED"] = str(seed)
     np.random.seed(seed)
     torch.manual_seed(seed)
     torch.cuda.manual_seed(seed)
